@@ -1,1 +1,1 @@
-# CLI-Employee-Management-System-Using-Node.js-and-Arrays
+# CLI-Employee-Management-System-Using-Node.js-and-Arrays<img width="1024" height="1536" alt="b8173fb5-22e6-4a2c-afa8-0b238a1df420" src="https://github.com/user-attachments/assets/31f4f2c6-db2d-4655-96d9-5f97d72f696b" />
